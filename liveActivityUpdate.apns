@@ -1,0 +1,44 @@
+{
+    "Simulator Target Bundle": "com.ann.LiveActivities",
+    "aps": {
+        "timestamp": 1661785680,
+        "event": "update",
+        "content-state": {
+            "showTime": 1661785680,
+            "stockList": [
+                {
+                    "id": "4CD3AB40-AE54-4AB8-8205-753A0713996C",
+                    "stockKey": "1524",
+                    "stockName": "耿鼎",
+                    "price": 29.25,
+                    "change": 2.65,
+                    "changeRate": 9.96
+                },
+                {
+                    "id": "8CB909E3-D9DB-4FC0-A3F3-92CF338F84EC",
+                    "stockKey": "2497",
+                    "stockName": "怡利電",
+                    "price": 86.4,
+                    "change": 7.8,
+                    "changeRate": 9.92
+                },
+                {
+                    "id": "689513A3-88AC-4497-9029-28BE7BC700CA",
+                    "stockKey": "2388",
+                    "stockName": "威盛",
+                    "price": 83.3,
+                    "change": 7.5,
+                    "changeRate": 9.89
+                },
+                {
+                    "id": "ED1046E7-7F61-4A92-923E-FDA176242AEE",
+                    "stockKey": "2303",
+                    "stockName": "聯電",
+                    "price": 41.3,
+                    "change": -0.1,
+                    "changeRate": -0.24
+                }
+            ]
+        }
+    }
+}

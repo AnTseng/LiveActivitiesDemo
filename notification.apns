@@ -1,0 +1,8 @@
+{
+    "Simulator Target Bundle": "com.ann.LiveActivities",
+    "aps": {
+        "alert": "Hello!",
+        "sound": "default",
+        "badge": 1
+    }
+}
